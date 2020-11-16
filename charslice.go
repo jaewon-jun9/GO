@@ -9,7 +9,7 @@ func main() {
     fmt.Println(len(s1))
     fmt.Println(len(s2))
     fmt.Println(len(s3))
-	fmt.Println(s1)
+    fmt.Println(s1)
     fmt.Println(s2)
     fmt.Println(s3)
     for i := 0; i < len(s1); i++ {
